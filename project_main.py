@@ -7,7 +7,7 @@ import streamlit as st
 st.markdown("""
 # Advertisement Campaign
 
-In this project we worked with an advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+In this project I worked with an advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. I created a model that will predict whether or not they will click on an ad based off the features of that user.
 
 This data set contains the following features:
 
